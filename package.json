@@ -10,15 +10,7 @@
     "word",
     "list"
   ],
-  "repository": "words/profanities",
-  "bugs": "https://github.com/words/profanities/issues",
-  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
-  "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
-  ],
-  "files": [
-    "index.json"
-  ],
+  "repository": "acollierr17/profanities",
   "main": "index.json",
   "dependencies": {},
   "devDependencies": {
