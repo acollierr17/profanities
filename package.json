@@ -19,7 +19,7 @@
   "files": [
     "index.json"
   ],
-  "main": "test.js",
+  "main": "index.json",
   "dependencies": {},
   "devDependencies": {
     "JSONStream": "^1.1.2",
